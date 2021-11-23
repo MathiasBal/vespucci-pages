@@ -1,0 +1,28 @@
+= Vespucci Pages
+1.0.0, 2021-11-19
+ifndef::imagesdir[:imagesdir: images]
+//:toc-placement!:  // prevents the generation of the doc at this position, so it can be printed afterwards
+:sourcedir: ../src/main/java
+:icons: font
+:toc: left
+
+ifdef::backend-html5[]
+
+== Azure Documentation
+Documentation to explain what criteria we use for our Use-Cases:
+https://mathiasbal.github.io/vespucci-pages/azure-documentation/azure[Azure Documentation]
+
+== Minutes of Meetings
+* https://mathiasbal.github.io/vespucci-pages/mom/16-11-2021[Dienstag 16.11.2021]
+
+
+== SDK Documentation
+
+==  SYP-Video
+In the SYP class we had to shoot a video introducing the team and the general project as a whole +
+https://mathiasbal.github.io/vespucci-pages/video-project/video-idea[Here's the link to the video]
+
+== Presentation
+Slides used for SYP class:
+https://mathiasbal.github.io/dji-drone-presentations/#/[Presentation]
+
