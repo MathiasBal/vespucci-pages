@@ -1,0 +1,49 @@
+= Vespucci Video
+
+
+== Idea
+.video v4
+|===
+|Location |Action |Items needed
+|Dark Room
+|Complete black screen +
+Text "Von der HTL Leonding" +
+"In Kooperation mit Kapsch BusinessCom" +
+"Nathalie Herzog und Karan Bal präsentieren" +
+Mavic Mini into the frame from the background +
+Drone flies away +
+"Vespucci Drone"
+|Mavic Mini
+|Outside (School)
+|Drone is filmed from the birds eye view (other drone) +
+Drone takes off +
+POV Drone +
+Film the crew +
+POV Birds Eye
+Fly away +
+Stop on sports field
+|Mavic Mini +
+Air 2
+| Outside (Corn field)
+| Fast cut to drone in the same position but now in a cornfield (cut fits to music) +
+"[Explore of new Business Areas]"
+| Mavic Mini +
+Air 2
+| Outside
+| App is opened +
+Someone draws a fly route +
+POV Drone +
+Fly to location +
+Detect object which we deliberately put there (fake fire) +
+Contact (fake) fire department +
+Epic fight between fire and firefighters with areal support from drone
+| Mavic Mini +
+Air 2 +
+Fake Fire +
+Fire Fighter uniform +
+Garden hose
+|===
+
+== Storyboard
+
+image::../images/storyboard.png[]
