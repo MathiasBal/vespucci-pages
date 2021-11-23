@@ -1,0 +1,33 @@
+= MOM 16.11.21
+
+== Anwesend
+.Teilnehmer
+|===
+|Anwesend Team |Anwesend Lehrer / Firma
+
+|Vorname Nachname
+|
+| Mathias Bal
+| Thomas Stütz
+| Nahtalie Herzog
+| Michael Bueck
+|===
+
+== Besprochene Themen
+* YouTrack
+** Swimlanes
+** Sprints
+* DA
+** Ist Paul noch beim Projekt?
+* Neuer Name vom Projekt
+
+== Was ist gewollt?
+* Es muss wo stehen was wir machen werden. Ein Bezug was wir bist jetzt gemacht haben soltle auch dabei sein
+* Swimlane: Was mache ich
+* Sprint: Wie lang mache ich es
+* Bei den Tasks in YouTrack muss man die Commits sehen können
+**  Bei den Commits die zugehörige Tasknummer von YouTrack dazuschreiben
+*  Genau Tasks beschreiben
+** Wir haben ein Problem -> formulieren -> machen
+* GitHub Pages Dokumentation vielleicht mit GitHub Actions machen
+* Explorer in den Namen vom Projekt hinzufügen (z.B Vespucci Explorer)
