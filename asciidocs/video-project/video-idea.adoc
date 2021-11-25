@@ -44,3 +44,5 @@ Garden hose
 |===
 
 == Storyboard
+.storyboard v2
+image::../images/storyboard_v2.png[]
