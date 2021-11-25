@@ -1,0 +1,42 @@
+= Kamera
+ifndef::imagesdir[:imagesdir: images]
+:sourcedir:
+:icons:
+:sectnums:
+:toc:
+
+== Operation (Work) Modes
+
+* Standbildaufnahme (single, (raw)burst, HDR, AEB, Interval, Timelapse)
+* Videoaufnahme
+* Wiedergabe
+* Mediendownload
+* Übertragung
+
+== Exposure Optionen
+
+* Shutter Speed
+* ISO
+* Aperture
+* Exposure Mode (Program, Shutter Priority, Aperture Priority, Manual)
+
+== Fotoeinstellungen
+
+* Weißabgleich
+* Schärfe
+* Kontrast
+* Farbton und Sättigung
+
+== Linse und Fokus
+
+* automatischer Fokus
+* entfernte Szenen
+* Ziel verfolgen
+
+Live Video, Broadcast, Playback
+
+== Medien
+
+- kann Dokumente verwalten (download, delete)
+* Speicher
+* Dateiindex (reset mode, sequence mode)
