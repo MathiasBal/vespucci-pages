@@ -1,0 +1,39 @@
+= MOM 11.10.2021
+
+== Anwesend
+.Teilnehmer
+|===
+|Anwesend Team |Anwesend Lehrer / Firma
+
+|Vorname Nachname
+|
+| Mathias Bal
+| Elisabeth Pilz
+| Nahtalie Herzog
+| Julian
+| Paul Binder
+|
+|===
+
+== Besprochene Themen
+* Briefing vom Projekt
+* Mock-Up
+* Routenspeicherung
+
+== Was ist gewollt?
+* Figma als Tool für Mock-Up austesten
+* CosmosDB in Azure für die Routenspeicherung verwenden
+* Eigene Bilder für die Analyse der Computer Vision ausprobieren
+* Intervall der Fotos verkürzen
+* In der App direkt die Überlagerung der AustroControl Map zwecks des Flugverbotes
+* Userbility
+** Gimbal mit Slider steuern
+** Push-Notification für die Szenarien
+** Am Hauptscreen einen Button für die Map
+** Nach dem Flug Push-Notification für die Beendigung des Fluges
+** Am Homescreen Take-Off/Land weg
+** Zeitliche Komponente für die dauerhafte Routenfliegung/Dauerauftrag für jeden Tag
+** History der Routen(in file speichern)
+
+* Mock-Up updaten
+* Bei der AustroControl wegen Flugberechtigung schauen
