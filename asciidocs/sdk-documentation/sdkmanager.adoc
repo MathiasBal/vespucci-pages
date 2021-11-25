@@ -1,0 +1,23 @@
+= SDK Manager
+ifndef::imagesdir[:imagesdir: images]
+:sourcedir:
+:icons:
+:sectnums:
+:toc:
+
+== DJI SDK Manager
+Der SDK Manager verwaltet logging, debugging und die Product Connections.
+
+== Registration
+* Eindeutiger App Key wird im Code eingefügt
+* Bei Erstnutzung wird der Code an den DJI  Server übertragen
+* Lokale Speicherung bei erfolgreicher Erstnutzung
+* Ohne internet wird die App lokal gesucht
+
+== Product Connection
+=== startConnectionToProduct
+Die Klasse verbindet die App mit der Drohne. +
+Der SDK Manager kann die verbindung jederzeit schließen.
+
+== Debug Mode & Bridge App
+Die Bridge App dient der App Entwicklung auf iOS-Geräten, da die Drohne oftmals keinen USB Anschluss mehr für das Gerät hat.
