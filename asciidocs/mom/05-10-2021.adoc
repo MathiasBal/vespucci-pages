@@ -1,0 +1,41 @@
+= MOM 05.10.2021
+
+== Anwesend
+.Teilnehmer
+|===
+|Anwesend Team |Anwesend Lehrer / Firma
+
+|Vorname Nachname
+|
+| Mathias Bal
+| Thomas Stütz
+| Nahtalie Herzog
+| Michael Bucek
+| Paul Binder
+|
+|===
+
+== Besprochene Themen
+* Präsentation
+* Mock-Up
+* Aktueller Stand des Projekts
+* Einteilung zwischen SYP und Diplomarbeit
+
+== Was ist gewollt?
+* Präsentation
+** Bilder von der App nur Anzeigen falls die App an sich Probleme hat beim Starten
+** Aufgaben: Neue Geschäftsfelder finden
+** Kürzere Folien
+** Ziel vor Aufgaben
+** Ein paar Use-Cases aufschreiben
+
+* Systemarchitektur überarbeiten
+
+* UseCases von Azure erklären
+** Dokumentation schreiben
+
+* Mock-Up
+** Lat und Long bei der MapView enger zusammen
+** Aktuelle Drohne irgendwo anzeigen
+** Status aufteilen bei Layout
+** Bei dem Side Menu statt User den Namen von der App anzeigen
