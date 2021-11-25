@@ -44,4 +44,3 @@ Garden hose
 |===
 
 == Storyboard
-image::../images/storyboard.png[]
