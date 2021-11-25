@@ -1,0 +1,28 @@
+= MOM 11.10.2021
+
+== Anwesend
+.Teilnehmer
+|===
+|Anwesend Team |Anwesend Lehrer / Firma
+
+|Vorname Nachname
+|
+| Mathias Bal
+| Franz Gruber-Leitner
+| Nahtalie Herzog
+|
+| Paul Binder
+|
+|===
+
+== Besprochene Themen
+* Differenz zwischen SYP und Diplomarbeit
+* Keine Steuerung mehr möglich->zu große Werte
+
+
+== Was ist gewollt?
+* Vorschlag SYP:
+** Schnittstelle zwischen Azure und App herstellen und Use-Case aussuchen können
+** mögliche Variante Eventhub als Map ersatz nehmen um Routen zu erstellen
+** UI-technisch die App ändern
+
