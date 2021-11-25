@@ -1,0 +1,42 @@
+= Flight Controller
+ifndef::imagesdir[:imagesdir: images]
+:sourcedir:
+:icons:
+:sectnums:
+:toc:
+
+== Overview
+* Flugsteuerung einschließlich Motorsteuerung, Start und Landung, manuelle Flugmodi
+* Informationen zum Zustand der Drohne wie Fluglage, Position, Geschwindigkeit
+* Sensor-Unterkomponenten wie Kompasse, IMUs und Positionierungssysteme
+* Flugbegrenzungssysteme wie die GEO-Zonen und das GEO-System
+* Flugzeug-Flugsimulation zum Testen und Debuggen
+
+== Info
+Der Flight Controller liefert detaillierte Informationen über den Zustand mit bis zu 10 Hz einschließlich:
+
+* Position, Geschwindigkeit und Höhe der Drohne
+* Verbleibende Batterie- und Flugzeitinformationen
+* Homestandort
+* Sensorinformationen (Kompass, IMU, Satellitenpositionierung)
+* Heimkehr-Status
+* Ob Motoren eingeschaltet sind und die Drohne fliegt
+* Flugbeschränkung und GEO-Systeminformationen
+
+== Motor
+Motoren können mit der SDK ein- und ausgeschaltet werden.
+
+== Abflug und Landung
+Start und Landung der Drohne können mit der SDK automatisiert werden. Eenn das Flugzeug 1,2m übder dem Boden ist, zählt der Start als fertig. Der automatische Start kann nur eingeleitet werden, wenn die Motoren ausgeschaltet sind.
+Wenn ein automatischer Landebefehl gesendet wird, wird das Flugzeug an seiner aktuellen Position absinken und landen.
+
+== Flugorientierung
+* Course Lock: Die Drohne bewegt sich relativ zu einem gesperrten Kurskurs.
+* Home Lock: Die Drohne bewegt sich relativ radial zum Home-Punkt.
+* Aircraft Heading: Die Drohne bewegt sich relativ zur Vorderseite des Flugzeugs.
+
+== Flugbeschränkung
+Die maximale Flughöhe der Drohne und die maximale Entfernung vom Heimatort können dazu verwendet werden, das Gebiet zu begrenzen, in dem ein Flugzeug fliegen kann. Mit der SDK kann man diese Beschränkungen abfragen und ändern.
+
+== Geospatial Environment Online (GEO)
+Das Geoinformationssystem kombiniert aktuelle Luftrauminformationen, ein Warn- und Flugbeschränkungssystem, einen Mechanismus zum Freischalten (Selbstautorisierung) von Drohnenflügen an Orten, an denen der Flug unter bestimmten Bedingungen erlaubt ist, und einen minimal-invasiven Verantwortungsmechanismus für diese Entscheidungen.
