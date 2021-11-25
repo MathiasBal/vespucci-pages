@@ -1,0 +1,30 @@
+= Missions
+ifndef::imagesdir[:imagesdir: images]
+:sourcedir:
+:icons:
+:sectnums:
+:toc:
+
+Bis die Mission beendet ist, können keine anderen Kommandos ausgeführt werden.
+
+== Waypoint-Mission:
+Es können Punkte gesetzt werden, die die Drohne abfliegt. Bei den Punkten können Aktionen ausgeführt werden, wobei die maximale Anzahl an Punkten bei 99 Stück liegt.
+
+== Hot Point Mission:
+Die Drohne fliegt in einem konstanten Radius rund um einen Punkt.
+
+== Follow Me Mission:
+Die Drohne fliegt einem ständig aktualisierendem GPS-Signal hinterher. Bei einer unterbrechung die länger als 6sec dauert, bricht die Drohne die Aufgabe ab und schwebt am selben Punkt.
+
+== ActiveTrack Mission:
+Im Live Video wird ein Rechteck über ein Objekt gelegt, welches anschließend von der Drohne verfolgt wird. +
+Es gibt drei verschiedene Ansichten:
+
+* Trace Mode: vor oder hinter dem Objekt
+* Profile Mode: parallel zu dem Objekt
+* Spotlight Mode: der Pilot kann die Drohne um das Objekt steuern allerdings bleibt die Kamera auf das Ziel gerichtet
+
+== Panorama Mission:
+Die Kamera wird entweder gedreht 180° oder 360° gedreht. Dabei werden Fotos geschossen, die auf der SD Karte gespeichert werden. +
+180 = 5 Fotos +
+360 = 8 Fotos
