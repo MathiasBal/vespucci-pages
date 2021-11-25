@@ -88,6 +88,7 @@ if(!isOutside) {
                 println("Caption: failed")
             }
         }
+}
 ----
 
 Moving on to the most important part for this use case: checking how
@@ -185,4 +186,4 @@ a pop up with a fitting message is displayed.
 The images are shown on the right hand side of the use case drawer
 as soon as they come in.
 
-image::images/stat_implementation.PNG[]
+image::{docdir}/../images/azure_implementation.PNG[]
