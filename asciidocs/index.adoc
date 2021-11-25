@@ -15,10 +15,17 @@ https://mathiasbal.github.io/vespucci-pages/azure-documentation/azure[Azure Docu
 == Minutes of Meetings
 Every meeting ever :)
 
-* https://mathiasbal.github.io/vespucci-pages/mom/16-11-2021[Dienstag 16.11.2021]
-
+* https://mathiasbal.github.io/vespucci-pages/mom/05-10-2021[Tuesday 05.10.2021]
+* https://mathiasbal.github.io/vespucci-pages/mom/Pre-11-10-2021[Monday 11.10.2021 Preperation]
+* https://mathiasbal.github.io/vespucci-pages/mom/11-10-2021[Monday 11.10.2021]
+* https://mathiasbal.github.io/vespucci-pages/mom/16-11-2021[Tuesday 16.11.2021]
 
 == SDK Documentation
+
+* https://mathiasbal.github.io/vespucci-pages/sdk-documentation/camera[Camera]
+* https://mathiasbal.github.io/vespucci-pages/sdk-documentation/flightcontroller[Flight Controller]
+* https://mathiasbal.github.io/vespucci-pages/sdk-documentation/missions[Missions]
+* https://mathiasbal.github.io/vespucci-pages/sdk-documentation/sdkmanager[SDK Manager]
 
 ==  SYP-Video
 In the SYP class we had to shoot a video introducing the team and the general project as a whole +
