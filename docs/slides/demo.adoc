@@ -1,0 +1,64 @@
+= Vespucci Drone
+Bal Mathias, Binder Paul, Herzog Nathalie
+1.18, 2021-09-20
+:customcss: css/style.css
+ifndef::sourcedir[:sourcedir: ../src/main/java]
+ifndef::imagesdir[:imagesdir: ../images]
+ifndef::backend[:backend: html5]
+:icons: font
+:revealjs_parallaxBackgroundImage: ../images/background-newdrone.jpeg
+:revealjs_parallaxBackgroundSize: cover
+
+== Ausgangssituation
+Die Kapsch BusinessCom AG ist ein Unternehmen in Österreich, welches zur Kapsch-Gruppe gehört und Hunderte von Mitarbeitern beschäftigt. Sie sucht
+nach neuen Geschäftfelder.
+
+=== Ist Zustand
+Das Unternehmen verfügt über eine Drohne, die mit einem Controller gesteuert werden muss.
+
+=== Ziel
+Die Kapsch BusinessCom will neue Geschäftsfelder mit Hilfe der Drohne evaluieren.
+
+[.text-smaller]
+=== Aufgabenstellung
+Es soll eine App entwickelt werden welche:
+
+* mit Verwendung der OpenStreetMap eine Drohne einen eingezeichneten Weg
+nachfliegen lässt
+* am Ende des Fluges mithilfe der Azure Services eine Statistik der erkannten Objekte
+wiedergibt
+
+=== Ergebnis
+Das Ergebnis ist eine App welche eine Route für die Drohne entgegennimmt, welche von der Drohne nachgeflogen wird. In regelmäßigen Abständen nimmt die Drohne Bilder von der Umgebung auf, die dann zur Analyse an eine Anwendung mit Azure Cognitive Services gesendet werden.
+
+== Overview
+image::done-architecture.png[]
+
+== Use-Cases
+* Ermitteln ob sich Personen an Corona-Maßnahmen halten
+* Erkennen ob es im Wald brennt
+* Feld abfliegen und Tiere erkennen
+* Staus erkennen und angeben ob man auf einer anderen Straße fahren soll
+
+== Jetztiger Stand
+
+* [x] Autonomes Fliegen
+
+* [x] Vorbereitende Arbeiten zur Bilderkennung
+** Mögliche Business Cases für das Programm mit Computer Vision entwickeln
+** Ein Programm erstellen, das Objekte erkennt und kategorisiert
+
+=== Live Demo Mobile App
+* Verwendung um die Drohnenroute zu steuer
+
+=== Live Demo Azure
+* für die Statistikauswertung am Ende des Fluges
+
+== Nächste Schritte
+
+[%notitle]
+=== Mockup
+image::mockup.png[background, size=contain]
+
+=== Weitere Schritte
+https://vm81.htl-leonding.ac.at/agiles/99-255/current[YouTrack, window="_blank"]
