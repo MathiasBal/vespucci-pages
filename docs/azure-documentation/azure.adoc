@@ -1,8 +1,10 @@
 = Azure Cognitive Services
 3.0, July 29, 2022: Azure Cognitive Services Documentation
 :toc:
-:icons: font
+:icons: font]
 :url-quickref: https://docs.asciidoctor.org/asciidoc/latest/syntax-quick-reference/
+
+ifndef::imagesdir[:imagesdir: ../images
 
 This is a brief documentation of how we get our Use Cases to work with
 Microsoft Azure Cognitive Services.
