@@ -2,8 +2,6 @@
 1.6.2, 2021-11-23
 ifndef::imagesdir[:imagesdir: images]
 
-ifdef::backend-html5[]
-
 == Azure Documentation
 Documentation to explain what criteria we use for our Use-Cases
 https://mathiasbal.github.io/vespucci-pages/azure-documentation/azure[Azure Documentation]
