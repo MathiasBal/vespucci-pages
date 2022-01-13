@@ -33,5 +33,5 @@ https://mathiasbal.github.io/vespucci-pages/video-project/video-idea[Here's the 
 
 == Presentation
 Slides used for SYP and introductory meetings! +
-https://mathiasbal.github.io/dji-drone-presentations/#/[Presentation]
+https://mathiasbal.github.io/vespucci-pages/slides/index.html#/[Presentation]
 
