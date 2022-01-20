@@ -48,3 +48,6 @@ Garden hose
 .storyboard v2
 image::storyboard.png[]
 
+== Video
+video::../videos/final_v2_german_recuded.mp4[]
+
