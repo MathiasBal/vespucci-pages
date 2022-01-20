@@ -1,14 +1,3 @@
-
-betreibernummer auf drohnen
-
-FEHLEND:
-von storage der drohne an azure schicken
-auswerten sollte schnell gehen, da gleicher transferweg und filter aus json-objekt
-
-RÜCKMELDUNG WEGEN
-NÄCHSTER TERMIN: 21.02.2022 11:00 (Kapsch Uni Standort/Schule noch offen)
-
-
 = MOM 20.01.21
 
 == Anwesend
