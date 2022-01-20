@@ -1,0 +1,67 @@
+
+betreibernummer auf drohnen
+
+FEHLEND:
+von storage der drohne an azure schicken
+auswerten sollte schnell gehen, da gleicher transferweg und filter aus json-objekt
+
+RÜCKMELDUNG WEGEN
+NÄCHSTER TERMIN: 21.02.2022 11:00 (Kapsch Uni Standort/Schule noch offen)
+
+
+= MOM 20.01.21
+
+== Anwesend
+.Teilnehmer
+|===
+|Anwesend Team |Anwesend Lehrer / Firma
+
+| Mathias Bal
+| Elisabeth Pilz
+| Paul Binder
+| Thomas Stütz
+| Nahtalie Herzog
+|
+|===
+
+== Besprochene Themen
+* GH Actions
+** Die Dokumentation läuft jetzt mit GitHub Actions
+* Projekt Video
+** Das Video im Rahmen vom SYP Projekt wurde hergezeigt
+* Weiterführung vom Projekt
+** Es wurde besprochen ob Paul das Projekt nächstes Jahr weiterführen wird
+* Größe des Projekts im zweiten Semester
+** Nach der Diplomarbeit müssten wir neue Use-Cases anbinden
+* Auswertung von der Bilderkennung
+** Die Fehlerrate von der Bilderkennung wurde besprochen
+* Weitere Use-Cases
+** Verschmutzung im Wasser
+** Rehkitz im Feld
+* Betreibernummer an Drohne
+
+== Was ist gewollt?
+
+
+[%autowidth]
+|===
+|Wer |Macht Was |Bis Wann
+
+| Bal
+a| Bilder via Media Manager an die App schicken
+| 03.02.2022
+|Herzog
+a| JSON Ausgabe auf der App gefiltered ausgeben
+| 03.02.2022
+|===
+
+== Nächstes Meeting
+*Änderungen vorbehalten*
+[%autowidth]
+|===
+| Wann | Wo
+
+| 21.02.2022 11:00
+| Kapsch Gebäude (JKU)
+|===
+
