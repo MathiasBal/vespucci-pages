@@ -1,6 +1,7 @@
 = Vespucci Pages
 1.6.2, 2021-11-23
 ifndef::imagesdir[:imagesdir: images]
+:favicon: ./images/favicon/favicon.png
 
 == Azure Documentation
 Documentation to explain what criteria we use for our Use-Cases
