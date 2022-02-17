@@ -14,7 +14,7 @@ ifndef::imagesdir[:imagesdir: ../images]
 == Ziel
 [.reveal h2]
 * Eine Android-App entwickeln, mit-welche man eine Drohne steuert
-[.reveal h2]
+[.reveal h3]
 * Mit Azure Cognitive Services bilder analysieren
 
 [.reveal h1]
