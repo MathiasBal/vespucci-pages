@@ -1,0 +1,22 @@
+= Vespucci Drone
+ifndef::imagesdir[:imagesdir: ../images]
+:revealjs_parallaxBackgroundImage: ../images/sky.png
+:revealjs_parallaxBackgroundSize: cover
+
+== Motivation
+* Kapsch hat ein Team für eine Projektarbeit gebraucht
+
+== Ziel
+* Eine Android-App entwickeln, mit-welche man eine Drohne steuert
+* Mit Azure Cognitive Services bilder analysieren
+
+== Live Demo
+
+== Team
+* Bal Mathias (5AHIF)
+* Herzog Nathalie (5AHIF)
+* Binder Paul (4AHIF)
+
+[%notitle]
+== Verwendete Technologien
+image::firediagram.png[]

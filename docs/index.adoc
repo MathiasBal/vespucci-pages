@@ -1,7 +1,7 @@
 = Vespucci Pages
 1.6.2, 2021-11-23
 ifndef::imagesdir[:imagesdir: images]
-:favicon: {imagesdir}/favicon/favicon.png
+:favicon: ./images/favicon/favicon.png
 
 == Azure Documentation
 Documentation to explain what criteria we use for our Use-Cases
@@ -11,10 +11,10 @@ https://mathiasbal.github.io/vespucci-pages/azure-documentation/azure[Azure Docu
 Every meeting ever :)
 
 * https://mathiasbal.github.io/vespucci-pages/mom/05-10-2021[Tuesday 05.10.2021]
-* https://mathiasbal.github.io/vespucci-pages/mom/Pre-11-10-2021[Monday 11.10.2021 Preparation]
+* https://mathiasbal.github.io/vespucci-pages/mom/Pre-11-10-2021[Monday 11.10.2021 Preperation]
 * https://mathiasbal.github.io/vespucci-pages/mom/11-10-2021[Monday 11.10.2021]
 * https://mathiasbal.github.io/vespucci-pages/mom/16-11-2021[Tuesday 16.11.2021]
-* https://mathiasbal.github.io/vespucci-pages/mom/20-01-2022[Thursday 20.01.2022]
+* https://mathiasbal.github.io/vespucci-pages/mom/20-01-2021[Thursday 20.01.2021]
 
 == SDK Documentation
 
@@ -27,7 +27,11 @@ Every meeting ever :)
 In the SYP class we had to shoot a video introducing the team and the general project as a whole +
 https://mathiasbal.github.io/vespucci-pages/video-project/video-idea[Here's the link to the video]
 
-== Presentation
-Slides used for SYP and introductory meetings! +
+== Presentationem
+* Slides used for SYP and introductory meetings! +
 https://mathiasbal.github.io/vespucci-pages/slides/index.html#/[Presentation]
 
+* Tadot Sldies:
+
+
+* Project Award Slides:
