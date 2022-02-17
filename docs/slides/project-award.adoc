@@ -5,20 +5,25 @@ ifndef::imagesdir[:imagesdir: ../images]
 :revealjs_parallaxBackgroundImage: ../images/wallpaper_pa.png
 :revealjs_parallaxBackgroundSize: cover
 
+[.reveal h5]
 == Motivation
 * Kapsch hat ein Team für eine Projektarbeit gebraucht
 
+[.reveal h5]
 == Ziel
 * Eine Android-App entwickeln, mit-welche man eine Drohne steuert
 * Mit Azure Cognitive Services bilder analysieren
 
+[.reveal h5]
 == Live Demo
 
+[.reveal h5]
 == Team
 * Bal Mathias (5AHIF)
 * Herzog Nathalie (5AHIF)
 * Binder Paul (4AHIF)
 
 [%notitle]
+[.reveal h5]
 == Verwendete Technologien
 image::firediagram.png[]
