@@ -7,7 +7,7 @@ ifndef::imagesdir[:imagesdir: ../images]
 
 [.reveal h1]
 == Motivation
-[.reveal text]
+[.reveal li]
 * Die Kapsch hat ein Team für eine Projektarbeit gebraucht
 
 [.reveal h1]
