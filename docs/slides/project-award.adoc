@@ -29,7 +29,6 @@ ifndef::imagesdir[:imagesdir: ../images]
 [.reveal h2]
 * Binder Paul (4AHIF)
 
-[%notitle]
 [.reveal h1]
 == Verwendete Technologien
 [.reveal h2]
