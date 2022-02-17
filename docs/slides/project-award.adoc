@@ -7,17 +7,18 @@ ifndef::imagesdir[:imagesdir: ../images]
 
 [.reveal h1]
 == Motivation
-[.reveal li]
+[.reveal p]
 Die Kapsch hat ein Team für eine Projektarbeit gebraucht
 
 [.reveal h1]
 == Ziel
-[.reveal li]
+[.reveal p]
 * Eine Android-App entwickeln, mit-welche man eine Drohne steuert
 * Mit Azure Cognitive Services bilder analysieren
 
 [.reveal h1]
 == Live Demo
+
 
 == Team
 * Bal Mathias (5AHIF)
