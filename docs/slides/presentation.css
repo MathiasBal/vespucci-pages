@@ -1,3 +1,10 @@
+@font-face {
+    font-family: 'yeFont';
+    src: url('YungJakesNewHandwriting-Regular.ttf');
+    font-weight: normal;
+    font-style: normal;
+}
+
 .reveal section img {
     border: 0;
     box-shadow: none;
@@ -9,4 +16,5 @@
 }
 .reveal h1, .reveal h2, .reveal h3, .reveal h4, .reveal h5, .reveal h6, #toctitle {
     color: #20e851;
+    font-family: yeFont, serif;
 }

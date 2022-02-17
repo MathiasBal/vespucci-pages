@@ -7,14 +7,14 @@ ifndef::imagesdir[:imagesdir: ../images]
 
 [.reveal h1]
 == Motivation
-[.reveal h1]
+[.reveal h2]
 * Kapsch hat ein Team für eine Projektarbeit gebraucht
 
 [.reveal h1]
 == Ziel
-[.reveal h1]
+[.reveal h2]
 * Eine Android-App entwickeln, mit-welche man eine Drohne steuert
-[.reveal h1]
+[.reveal h2]
 * Mit Azure Cognitive Services bilder analysieren
 
 [.reveal h1]
@@ -22,15 +22,15 @@ ifndef::imagesdir[:imagesdir: ../images]
 
 [.reveal h1]
 == Team
-[.reveal h1]
+[.reveal h2]
 * Bal Mathias (5AHIF)
-[.reveal h1]
+[.reveal h2]
 * Herzog Nathalie (5AHIF)
-[.reveal h1]
+[.reveal h2]
 * Binder Paul (4AHIF)
 
 [%notitle]
 [.reveal h1]
 == Verwendete Technologien
-[.reveal h1]
+[.reveal h2]
 image::firediagram.png[]
