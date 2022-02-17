@@ -27,11 +27,12 @@ Every meeting ever :)
 In the SYP class we had to shoot a video introducing the team and the general project as a whole +
 https://mathiasbal.github.io/vespucci-pages/video-project/video-idea[Here's the link to the video]
 
-== Presentationem
-* Slides used for SYP and introductory meetings! +
-https://mathiasbal.github.io/vespucci-pages/slides/index.html#/[Presentation]
+== Presentation
+* Slides used for SYP and introductory meetings: +
+https://mathiasbal.github.io/vespucci-pages/slides/index.html#/[Introduction Presentation]
 
-* Tadot Sldies:
+* Slidesused for our Tadeot presentation: +
+https://mathiasbal.github.io/vespucci-pages/slides/tadeot.html#/[Tadeot Presentation]
 
-
-* Project Award Slides:
+* Project Award Slides: +
+https://mathiasbal.github.io/vespucci-pages/slides/project-award.html#/[Project Awards Presentation]
