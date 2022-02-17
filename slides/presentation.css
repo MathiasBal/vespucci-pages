@@ -1,0 +1,7 @@
+.reveal section img {
+    border: 0;
+    box-shadow: none;
+}
+.fontsizeDescription{
+    font-size: smaller;
+}
