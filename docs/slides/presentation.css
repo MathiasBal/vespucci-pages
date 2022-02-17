@@ -5,3 +5,7 @@
 .fontsizeDescription{
     font-size: smaller;
 }
+
+body {
+    color: blue;
+}
