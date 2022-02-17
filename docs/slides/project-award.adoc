@@ -8,7 +8,7 @@ ifndef::imagesdir[:imagesdir: ../images]
 [.reveal h1]
 == Motivation
 [.reveal li]
-* Die Kapsch hat ein Team für eine Projektarbeit gebraucht
+Die Kapsch hat ein Team für eine Projektarbeit gebraucht
 
 [.reveal h1]
 == Ziel
