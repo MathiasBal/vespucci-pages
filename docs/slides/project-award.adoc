@@ -1,5 +1,6 @@
 = Vespucci Drone
 ifndef::imagesdir[:imagesdir: ../images]
+:customcss: presentation.css
 :revealjs_parallaxBackgroundImage: ../images/wallpaper_pa.png
 :revealjs_parallaxBackgroundSize: cover
 
