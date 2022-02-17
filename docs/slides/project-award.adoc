@@ -1,4 +1,4 @@
-[.reveal]
+[.reveal h1]
 = Vespucci Drone
 ifndef::imagesdir[:imagesdir: ../images]
 :customcss: presentation.css
