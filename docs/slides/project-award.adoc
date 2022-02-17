@@ -12,7 +12,7 @@ ifndef::imagesdir[:imagesdir: ../images]
 
 [.reveal h1]
 == Ziel
-.reveal li
+[.reveal li]
 * Eine Android-App entwickeln, mit-welche man eine Drohne steuert
 * Mit Azure Cognitive Services bilder analysieren
 
@@ -21,6 +21,7 @@ ifndef::imagesdir[:imagesdir: ../images]
 
 [.reveal h1]
 == Team
+[.reveal li]
 * Bal Mathias (5AHIF)
 * Herzog Nathalie (5AHIF)
 * Binder Paul (4AHIF)
