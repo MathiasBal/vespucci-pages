@@ -1,6 +1,6 @@
 = Vespucci Drone
 ifndef::imagesdir[:imagesdir: ../images]
-:revealjs_parallaxBackgroundImage: ../images/sky.png
+:revealjs_parallaxBackgroundImage: ../images/wallpaper_pa.png
 :revealjs_parallaxBackgroundSize: cover
 
 == Motivation
