@@ -5,15 +5,13 @@ ifndef::imagesdir[:imagesdir: ../images]
 :revealjs_parallaxBackgroundImage: ../images/wallpaper_pa.png
 :revealjs_parallaxBackgroundSize: cover
 
-== Motivation
+== Motivation der SYP-Projekts
 Die Kapsch hat ein Team für eine Projektarbeit gebraucht
 
 === Ziel
 Eine Android-App entwickeln, mit-welche man eine Drohne steuert
-Mit Azure Cognitive Services bilder analysieren
 
 === Live Demo
-
 
 === Team
 Bal Mathias (5AHIF) +
@@ -21,5 +19,16 @@ Herzog Nathalie (5AHIF) +
 Binder Paul (4AHIF)
 
 [.reveal h2]
+=== Verwendete Technologien
+image::firediagram.png[width=700]
+
+== Motivation der Diplomarbeit
+Nach dem SYP-Projekt wollten wir mithilfe von Azure Cognitive Services
+ein Bilderkennungsprogramm für die App entwickeln
+
+=== Ziel
+Während dem Flug werden in regelmäßigen Abständen Bilder gemacht, welche
+dann analysiert und in der App angezeigt werden
+
 === Verwendete Technologien
 image::firediagram.png[width=700]
