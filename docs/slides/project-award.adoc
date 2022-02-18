@@ -25,4 +25,4 @@ Binder Paul (4AHIF)
 
 [.reveal h2]
 == Verwendete Technologien
-image::firediagram.png[]
+image::firediagram.png[width=700]
