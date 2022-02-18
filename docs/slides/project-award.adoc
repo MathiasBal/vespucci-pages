@@ -23,6 +23,6 @@ Bal Mathias (5AHIF) +
 Herzog Nathalie (5AHIF) +
 Binder Paul (4AHIF)
 
-[.reveal h1]
+[.reveal h2]
 == Verwendete Technologien
 image::firediagram.png[]
