@@ -19,8 +19,8 @@ Mit Azure Cognitive Services bilder analysieren
 
 
 == Team
-Bal Mathias (5AHIF)
-Herzog Nathalie (5AHIF)
+Bal Mathias (5AHIF) +
+Herzog Nathalie (5AHIF) +
 Binder Paul (4AHIF)
 
 [.reveal h1]
