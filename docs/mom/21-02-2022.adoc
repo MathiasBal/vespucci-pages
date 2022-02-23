@@ -1,0 +1,60 @@
+= MOM 21.02.22
+
+== Anwesend
+.Teilnehmer
+|===
+|Anwesend Team |Anwesend Lehrer / Firma
+
+| Mathias Bal
+| Elisabeth Pilz
+| Paul Binder
+| Manuel Moser
+| Nahtalie Herzog
+|
+|===
+
+== Besprochene Themen
+* Replay auf der App der bereits geflogenen Routen
+* Lifestream einer Map / Webseite
+** Die aktuellen Bilder anzeigen
+* Aufnehmen & Speichern der Bilder von der  Drohne
+** Zentral auf einem Server (Azure) die Bilder hochladen
+** alle 10 oder 30 Sekunden Bilder machen
+** also Fotos, welche an die Cognitive Services geschickt werden, speichern
+** Aufzeichnung Start & Stop Button machen
+* Aktuelle Stand der App
+* Änderung des Firmennamens und Firmenlogos
+* Speicherung der Bilder auf dem Gerät
+** Live-Bilder hochladen um auf anderen Geräten mitzuschauen (watcher-flieger)
+* Project Award Präsentation
+** Mehr Bilder (Notfalls Videos)
+** Folie zur Abgrenzung vom SYP Projekt und Diplomarbeit
+** Bei dem Überblick vom Projekt auf der rechten Seite statt Tags ein gefiltertes Bild anzeigen
+* Eine Folie mit Problemen einfügen
+* Watcher Modus Verwendung
+* Prozess
+* Wie gehts weiter?
+** Fragen von der Jury
+
+== Was wurde ausgemacht?
+
+* Agenda für VR-Besprechung als Abschlusspräsentation / Generalprobe für Matura
+* Live Demo von der App
+
+== Nächstes Meeting
+*Änderungen vorbehalten*
+[%autowidth]
+|===
+| Wann | Wo
+
+| 21.03.2022
+| Teams
+|===
+
+[%autowidth]
+|===
+| Wann | Wo
+
+| 04.04.2022 oder 24.04.2022
+| HTL Leonding
+|===
