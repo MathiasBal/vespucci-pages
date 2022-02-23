@@ -3,7 +3,7 @@
 == Anwesend
 .Teilnehmer
 |===
-|Anwesend Team |Anwesend Lehrer / Firma
+|Anwesend Team |Anwesend Firma
 
 | Mathias Bal
 | Elisabeth Pilz
