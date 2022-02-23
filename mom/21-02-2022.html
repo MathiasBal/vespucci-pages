@@ -6,7 +6,7 @@
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 <meta name="generator" content="Asciidoctor 2.0.17">
 <link rel="icon" type="image/png" href="themes/favicon.png">
-<title>Missions</title>
+<title>MOM 21.02.22</title>
 <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Open+Sans:300,300italic,400,400italic,600,600italic%7CNoto+Serif:400,400italic,700,700italic%7CDroid+Sans+Mono:400,700">
 <style>
 /*! Asciidoctor default stylesheet | MIT License | https://asciidoctor.org */
@@ -440,80 +440,199 @@ body.book #toc,body.book #preamble,body.book h1.sect0,body.book .sect1>h2{page-b
 </head>
 <body class="article toc2 toc-left">
 <div id="header">
-<h1>Missions</h1>
+<h1>MOM 21.02.22</h1>
 <div id="toc" class="toc2">
 <div id="toctitle">Table of Contents</div>
 <ul class="sectlevel1">
-<li><a href="#_waypoint_mission">1. Waypoint-Mission:</a></li>
-<li><a href="#_hot_point_mission">2. Hot Point Mission:</a></li>
-<li><a href="#_follow_me_mission">3. Follow Me Mission:</a></li>
-<li><a href="#_activetrack_mission">4. ActiveTrack Mission:</a></li>
-<li><a href="#_panorama_mission">5. Panorama Mission:</a></li>
+<li><a href="#_anwesend">1. Anwesend</a></li>
+<li><a href="#_besprochene_themen">2. Besprochene Themen</a></li>
+<li><a href="#_was_wurde_ausgemacht">3. Was wurde ausgemacht?</a></li>
+<li><a href="#_nächstes_meeting">4. Nächstes Meeting</a></li>
 </ul>
 </div>
 </div>
 <div id="content">
-<div id="preamble">
+<div class="sect1">
+<h2 id="_anwesend"><a class="anchor" href="#_anwesend"></a>1. Anwesend</h2>
 <div class="sectionbody">
-<div class="paragraph">
-<p>Bis die Mission beendet ist, können keine anderen Kommandos ausgeführt werden.</p>
-</div>
+<table class="tableblock frame-all grid-all stretch">
+<caption class="title">Table 1. Teilnehmer</caption>
+<colgroup>
+<col style="width: 50%;">
+<col style="width: 50%;">
+</colgroup>
+<thead>
+<tr>
+<th class="tableblock halign-left valign-top">Anwesend Team</th>
+<th class="tableblock halign-left valign-top">Anwesend Firma</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td class="tableblock halign-left valign-top"><p class="tableblock">Mathias Bal</p></td>
+<td class="tableblock halign-left valign-top"><p class="tableblock">Elisabeth Pilz</p></td>
+</tr>
+<tr>
+<td class="tableblock halign-left valign-top"><p class="tableblock">Paul Binder</p></td>
+<td class="tableblock halign-left valign-top"><p class="tableblock">Manuel Moser</p></td>
+</tr>
+<tr>
+<td class="tableblock halign-left valign-top"><p class="tableblock">Nahtalie Herzog</p></td>
+<td class="tableblock halign-left valign-top"></td>
+</tr>
+</tbody>
+</table>
 </div>
 </div>
 <div class="sect1">
-<h2 id="_waypoint_mission"><a class="anchor" href="#_waypoint_mission"></a>1. Waypoint-Mission:</h2>
+<h2 id="_besprochene_themen"><a class="anchor" href="#_besprochene_themen"></a>2. Besprochene Themen</h2>
 <div class="sectionbody">
-<div class="paragraph">
-<p>Es können Punkte gesetzt werden, die die Drohne abfliegt. Bei den Punkten können Aktionen ausgeführt werden, wobei die maximale Anzahl an Punkten bei 99 Stück liegt.</p>
-</div>
-</div>
-</div>
-<div class="sect1">
-<h2 id="_hot_point_mission"><a class="anchor" href="#_hot_point_mission"></a>2. Hot Point Mission:</h2>
-<div class="sectionbody">
-<div class="paragraph">
-<p>Die Drohne fliegt in einem konstanten Radius rund um einen Punkt.</p>
-</div>
-</div>
-</div>
-<div class="sect1">
-<h2 id="_follow_me_mission"><a class="anchor" href="#_follow_me_mission"></a>3. Follow Me Mission:</h2>
-<div class="sectionbody">
-<div class="paragraph">
-<p>Die Drohne fliegt einem ständig aktualisierendem GPS-Signal hinterher. Bei einer unterbrechung die länger als 6sec dauert, bricht die Drohne die Aufgabe ab und schwebt am selben Punkt.</p>
-</div>
-</div>
-</div>
-<div class="sect1">
-<h2 id="_activetrack_mission"><a class="anchor" href="#_activetrack_mission"></a>4. ActiveTrack Mission:</h2>
-<div class="sectionbody">
-<div class="paragraph">
-<p>Im Live Video wird ein Rechteck über ein Objekt gelegt, welches anschließend von der Drohne verfolgt wird.<br>
-Es gibt drei verschiedene Ansichten:</p>
-</div>
 <div class="ulist">
 <ul>
 <li>
-<p>Trace Mode: vor oder hinter dem Objekt</p>
+<p>Replay auf der App der bereits geflogenen Routen</p>
 </li>
 <li>
-<p>Profile Mode: parallel zu dem Objekt</p>
+<p>Lifestream einer Map / Webseite</p>
+<div class="ulist">
+<ul>
+<li>
+<p>Die aktuellen Bilder anzeigen</p>
+</li>
+</ul>
+</div>
 </li>
 <li>
-<p>Spotlight Mode: der Pilot kann die Drohne um das Objekt steuern allerdings bleibt die Kamera auf das Ziel gerichtet</p>
+<p>Aufnehmen &amp; Speichern der Bilder von der  Drohne</p>
+<div class="ulist">
+<ul>
+<li>
+<p>Zentral auf einem Server (Azure) die Bilder hochladen</p>
+</li>
+<li>
+<p>alle 10 oder 30 Sekunden Bilder machen</p>
+</li>
+<li>
+<p>also Fotos, welche an die Cognitive Services geschickt werden, speichern</p>
+</li>
+<li>
+<p>Aufzeichnung Start &amp; Stop Button machen</p>
+</li>
+</ul>
+</div>
+</li>
+<li>
+<p>Aktuelle Stand der App</p>
+</li>
+<li>
+<p>Änderung des Firmennamens und Firmenlogos</p>
+</li>
+<li>
+<p>Speicherung der Bilder auf dem Gerät</p>
+<div class="ulist">
+<ul>
+<li>
+<p>Live-Bilder hochladen um auf anderen Geräten mitzuschauen (watcher-flieger)</p>
+</li>
+</ul>
+</div>
+</li>
+<li>
+<p>Project Award Präsentation</p>
+<div class="ulist">
+<ul>
+<li>
+<p>Mehr Bilder (Notfalls Videos)</p>
+</li>
+<li>
+<p>Folie zur Abgrenzung vom SYP Projekt und Diplomarbeit</p>
+</li>
+<li>
+<p>Bei dem Überblick vom Projekt auf der rechten Seite statt Tags ein gefiltertes Bild anzeigen</p>
+</li>
+</ul>
+</div>
+</li>
+<li>
+<p>Eine Folie mit Problemen einfügen</p>
+</li>
+<li>
+<p>Watcher Modus Verwendung</p>
+</li>
+<li>
+<p>Prozess</p>
+</li>
+<li>
+<p>Wie gehts weiter?</p>
+<div class="ulist">
+<ul>
+<li>
+<p>Fragen von der Jury</p>
+</li>
+</ul>
+</div>
 </li>
 </ul>
 </div>
 </div>
 </div>
 <div class="sect1">
-<h2 id="_panorama_mission"><a class="anchor" href="#_panorama_mission"></a>5. Panorama Mission:</h2>
+<h2 id="_was_wurde_ausgemacht"><a class="anchor" href="#_was_wurde_ausgemacht"></a>3. Was wurde ausgemacht?</h2>
+<div class="sectionbody">
+<div class="ulist">
+<ul>
+<li>
+<p>Agenda für VR-Besprechung als Abschlusspräsentation / Generalprobe für Matura</p>
+</li>
+<li>
+<p>Live Demo von der App</p>
+</li>
+</ul>
+</div>
+</div>
+</div>
+<div class="sect1">
+<h2 id="_nächstes_meeting"><a class="anchor" href="#_nächstes_meeting"></a>4. Nächstes Meeting</h2>
 <div class="sectionbody">
 <div class="paragraph">
-<p>Die Kamera wird entweder gedreht 180° oder 360° gedreht. Dabei werden Fotos geschossen, die auf der SD Karte gespeichert werden.<br>
-180 = 5 Fotos<br>
-360 = 8 Fotos</p>
+<p><strong>Änderungen vorbehalten</strong></p>
 </div>
+<table class="tableblock frame-all grid-all fit-content">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<thead>
+<tr>
+<th class="tableblock halign-left valign-top">Wann</th>
+<th class="tableblock halign-left valign-top">Wo</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td class="tableblock halign-left valign-top"><p class="tableblock">21.03.2022</p></td>
+<td class="tableblock halign-left valign-top"><p class="tableblock">Teams</p></td>
+</tr>
+</tbody>
+</table>
+<table class="tableblock frame-all grid-all fit-content">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<thead>
+<tr>
+<th class="tableblock halign-left valign-top">Wann</th>
+<th class="tableblock halign-left valign-top">Wo</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td class="tableblock halign-left valign-top"><p class="tableblock">04.04.2022 oder 24.04.2022</p></td>
+<td class="tableblock halign-left valign-top"><p class="tableblock">HTL Leonding</p></td>
+</tr>
+</tbody>
+</table>
 </div>
 </div>
 </div>
