@@ -12,17 +12,15 @@
 .fontsizeDescription{
     font-size: smaller;
 }
-.reveal h1, .reveal h3, .reveal h4, .reveal h5, .reveal h6, #toctitle {
+.reveal h1 {
     color: #20e851;
     font-family: yeFont;
 }
 
-.reveal h2 {
-    color: #1bcc47;
+.reveal h2, .reveal h3, .reveal h4, .reveal h5, .reveal h6, #toctitle  {
     font-family: yeFont;
 }
 
 .reveal p {
-    color: #1ed04a;
     font-weight: 800;
 }
