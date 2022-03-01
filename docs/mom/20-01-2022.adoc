@@ -45,7 +45,6 @@ a| JSON Ausgabe auf der App gefiltered ausgeben
 |===
 
 == Nächstes Meeting
-*Änderungen vorbehalten*
 [%autowidth]
 |===
 | Wann | Wo
