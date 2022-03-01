@@ -18,6 +18,7 @@
 }
 
 .reveal h2, .reveal h3, .reveal h4, .reveal h5, .reveal h6, #toctitle  {
+    color: white;
     font-family: yeFont;
 }
 
