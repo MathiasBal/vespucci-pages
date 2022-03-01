@@ -10,6 +10,7 @@
     box-shadow: none;
 }
 .fontsizeDescription{
+    color: white;
     font-size: smaller;
 }
 .reveal h1 {
@@ -23,5 +24,6 @@
 }
 
 .reveal p {
+    color: white;
     font-weight: 800;
 }
