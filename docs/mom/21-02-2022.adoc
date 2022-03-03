@@ -30,10 +30,10 @@
 ** Mehr Bilder (Notfalls Videos)
 ** Folie zur Abgrenzung vom SYP Projekt und Diplomarbeit
 ** Bei dem Überblick vom Projekt auf der rechten Seite statt Tags ein gefiltertes Bild anzeigen
-* Eine Folie mit Problemen einfügen
-* Watcher Modus Verwendung
-* Prozess
-* Wie gehts weiter?
+** Eine Folie mit Problemen einfügen
+** Watcher Modus Verwendung
+** Prozess
+** Wie gehts weiter?
 ** Fragen von der Jury
 
 == Was wurde ausgemacht?
