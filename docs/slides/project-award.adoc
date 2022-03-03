@@ -5,7 +5,9 @@ ifndef::imagesdir[:imagesdir: ../images]
 :revealjs_parallaxBackgroundImage: ../images/wallpaper_pa.png
 :revealjs_parallaxBackgroundSize: cover
 
-== Motivation der SYP-Projekts
+== SYP Projekt
+
+=== Motivation
 Die Kapsch hat ein Team für eine Projektarbeit gebraucht
 
 === Ziel
@@ -20,9 +22,11 @@ Binder Paul (4AHIF)
 
 [.reveal h2]
 === Verwendete Technologien
-image::firediagram.png[width=700]
+image::mockup.png[width=650]
 
-== Motivation der Diplomarbeit
+== Diplomarbeit
+
+=== Motivation
 Nach dem SYP-Projekt wollten wir mithilfe von Azure Cognitive Services
 ein Bilderkennungsprogramm für die App entwickeln
 
