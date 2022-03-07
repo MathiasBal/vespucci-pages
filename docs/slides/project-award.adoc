@@ -1,5 +1,6 @@
 [.reveal h1]
 = Vespucci Drone
+Bal Karan Mathias, Herzog Nathalie
 ifndef::imagesdir[:imagesdir: ../images]
 :customcss: presentation.css
 :revealjs_parallaxBackgroundImage: ../images/wallpaper_pa.png
@@ -7,22 +8,20 @@ ifndef::imagesdir[:imagesdir: ../images]
 
 == SYP Projekt
 
+=== Ausgangssituation
+Die Kapsch ist ein Unternehmen, welche sich mit Innovationen und IoT-Technologien außeinandersetzt
+
 === Motivation
-Die Kapsch hat ein Team für eine Projektarbeit gebraucht
+Neue Geschäftsfelder sollten erforscht werden
 
 === Ziel
 Eine Android-App entwickeln, mit-welche man eine Drohne steuert
 
-=== Live Demo
-
-=== Team
-Bal Mathias (5AHIF) +
-Herzog Nathalie (5AHIF) +
-Binder Paul (4AHIF)
-
 [.reveal h2]
-=== Verwendete Technologien
+=== Was haben wir gemacht?
 image::mockup.png[width=650]
+
+=== Live Demo
 
 == Diplomarbeit
 
@@ -34,5 +33,8 @@ ein Bilderkennungsprogramm für die App entwickeln
 Während dem Flug werden in regelmäßigen Abständen Bilder gemacht, welche
 dann analysiert und in der App angezeigt werden
 
-=== Verwendete Technologien
+=== Was haben wir gemacht?
 image::firediagram.png[width=700]
+
+== Wie gehts weiter?
+* Drohnenrouten in Datenbank speichern
