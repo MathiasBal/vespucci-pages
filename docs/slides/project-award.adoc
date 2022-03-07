@@ -19,7 +19,7 @@ Eine Android-App entwickeln, mit-welche man eine Drohne steuert
 
 [.reveal h2]
 === Was haben wir gemacht?
-image::mockup.png[width=650]
+image::mockup.png[width=600]
 
 === Live Demo
 
