@@ -187,4 +187,4 @@ a pop up with a fitting message is displayed.
 The images are shown on the right hand side of the use case drawer
 as soon as they come in.
 
-image::{docdir}/../images/azure_implementation.PNG[]
+image::azure_implementation.PNG[]
