@@ -17,8 +17,10 @@ Neue Geschäftsfelder sollten erforscht werden
 [.columns]
 === Ergebnis
 [.column]
+==== Schulprojekt
 Eine Android-App entwickeln, mit welcher man eine Drohne steuert
 [.column]
+==== Diplomarbeit
 Erkennen von Geschäftssituationen mittels Azure Cognitive Services
 
 [.reveal h2]
