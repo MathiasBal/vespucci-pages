@@ -9,13 +9,17 @@ ifndef::imagesdir[:imagesdir: ../images]
 == SYP Projekt
 
 === Ausgangssituation
-Die Kapsch ist ein Unternehmen, welche sich mit Innovationen und IoT-Technologien außeinandersetzt
-
-=== Motivation
-Neue Geschäftsfelder sollten erforscht werden
+Die Firma Kapsch ist ein Unternehmen, welche sich mit Innovationen und IoT-Technologien auseinandersetzt
 
 === Ziel
-Eine Android-App entwickeln, mit-welche man eine Drohne steuert
+Neue Geschäftsfelder sollten erforscht werden
+
+[.columns]
+=== Ergebnis
+[.column]
+Eine Android-App entwickeln, mit welcher man eine Drohne steuert
+[.column]
+Erkennen von Geschäftssituationen mittels Azure Cognitive Services
 
 [.reveal h2]
 === Was haben wir gemacht?
@@ -25,13 +29,9 @@ image::mockup.png[width=600]
 
 == Diplomarbeit
 
-=== Motivation
+=== Ziel
 Nach dem SYP-Projekt wollten wir mithilfe von Azure Cognitive Services
 ein Bilderkennungsprogramm für die App entwickeln
-
-=== Ziel
-Während dem Flug werden in regelmäßigen Abständen Bilder gemacht, welche
-dann analysiert und in der App angezeigt werden
 
 === Was haben wir gemacht?
 image::firediagram.png[width=700]
