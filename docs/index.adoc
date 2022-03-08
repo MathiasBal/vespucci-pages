@@ -4,7 +4,6 @@ ifndef::imagesdir[:imagesdir: images]
 :favicon: ./images/favicon/favicon.png
 
 == Azure Documentation
-WIP +
 Documentation to explain what criteria we use for our Use-Cases +
 https://mathiasbal.github.io/vespucci-pages/azure-documentation/azure[Azure Documentation]
 
