@@ -34,7 +34,7 @@ image::mockup.png[background, size=contain]
 === Live Demo
 
 === Verwendung der Cognitive Services
-image::firediagram.png[width=700]
+image::firediagram.png[background]
 
 == Wie gehts weiter?
 * Drohnenrouten in Datenbank oder als File speichern
