@@ -28,7 +28,7 @@ Erkennen von Geschäftssituationen mittels Azure Cognitive Services
 [.reveal h2]
 [%notitle]
 === Was haben wir gemacht
-image::mockup.png[background, size=cover]
+image::mockup.png[background, size=contain]
 
 === Live Demo
 
