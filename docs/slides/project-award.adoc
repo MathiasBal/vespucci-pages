@@ -28,13 +28,15 @@ Erkennen von Geschäftssituationen mittels Azure Cognitive Services
 
 [.reveal h2]
 [%notitle]
+[background-color="white"]
 === Was haben wir gemacht
 image::mockup.png[background, size=contain]
 
-=== Live Demo
-
+[%notitle]
 === Verwendung der Cognitive Services
 image::firediagram.png[background, size=contain]
+
+== Live Demo
 
 == Wie gehts weiter?
 * Drohnenrouten in Datenbank oder als File speichern
