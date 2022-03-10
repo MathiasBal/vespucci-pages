@@ -28,8 +28,9 @@ Eine Android-App entwickeln, mit welcher man eine Drohne steuert
 Erkennen von Geschäftssituationen mittels Azure Cognitive Services
 
 [.reveal h2]
-=== Was haben wir gemacht?
-image::mockup.png[width=600]
+[%notitle]
+=== Was haben wir gemacht
+image::mockup.png[background]
 
 === Live Demo
 
