@@ -18,12 +18,12 @@ Neue Geschäftsfelder sollten erforscht werden
 
 [.column.is_half]
 ==== Schulprojekt
-[.col]
+
 Eine Android-App entwickeln, mit welcher man eine Drohne steuert
 
 [.column.is_half]
 ==== Diplomarbeit
-[.col]
+
 Erkennen von Geschäftssituationen mittels Azure Cognitive Services
 
 [.reveal h2]
@@ -33,11 +33,7 @@ image::mockup.png[background, size=contain]
 
 === Live Demo
 
-=== Ziel der
-Nach dem SYP-Projekt wollten wir mithilfe von Azure Cognitive Services
-ein Bilderkennungsprogramm für die App entwickeln
-
-=== Was haben wir gemacht?
+=== Verwendung der Cognitive Services
 image::firediagram.png[width=700]
 
 == Wie gehts weiter?
