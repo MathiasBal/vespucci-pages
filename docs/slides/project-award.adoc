@@ -38,7 +38,7 @@ image::mockup.png[background, size=contain]
 [%notitle]
 [background-image="forestfire.jpg", size=cover]
 === Verwendung der Cognitive Services
-image::firediagram.png[size=cover]
+image::firediagram.png[size=fill]
 
 == Live Demo
 
