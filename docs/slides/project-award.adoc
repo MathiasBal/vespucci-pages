@@ -6,9 +6,7 @@ ifndef::imagesdir[:imagesdir: ../images]
 :revealjs_parallaxBackgroundImage: ../images/wallpaper_pa.png
 :revealjs_parallaxBackgroundSize: cover
 
-== SYP Projekt
-
-=== Ausgangssituation
+== Ausgangssituation
 Die Firma Kapsch ist ein Unternehmen, welche sich mit Innovationen und IoT-Technologien auseinandersetzt
 
 === Ziel
@@ -30,11 +28,9 @@ Erkennen von Geschäftssituationen mittels Azure Cognitive Services
 [.reveal h2]
 [%notitle]
 === Was haben wir gemacht
-image::mockup.png[background]
+image::mockup.png[background, size=cover]
 
 === Live Demo
-
-== Diplomarbeit
 
 === Ziel
 Nach dem SYP-Projekt wollten wir mithilfe von Azure Cognitive Services
@@ -44,4 +40,6 @@ ein Bilderkennungsprogramm für die App entwickeln
 image::firediagram.png[width=700]
 
 == Wie gehts weiter?
-* Drohnenrouten in Datenbank speichern
+* Drohnenrouten in Datenbank oder als File speichern
+* Größere Drohnen verwenden
+** Einsatzfähigkeiten prüfen
