@@ -17,13 +17,13 @@ Neue Geschäftsfelder sollten erforscht werden
 === Ergebnis
 
 [.text-smaller]
-[.column, width=300]
+[.column, width=2]
 ==== Schulprojekt
 
 Steuern einer Drohne mittels App
 
 [.text-smaller]
-[.column, width=300]
+[.column, width=2]
 ==== Diplomarbeit
 
 Erkennen von Ereignissen +
@@ -39,7 +39,6 @@ image::mockup.png[background, size=contain]
 [background-image="forestfire.jpg", size=cover]
 === Verwendung der Cognitive Services
 image::firediagram.png[height=200%, width=300%]
-image::firediagram.svg[height=200%, width=300%]
 
 
 == Live Demo
