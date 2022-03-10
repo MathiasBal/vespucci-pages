@@ -13,7 +13,7 @@ Die Firma Kapsch ist ein Unternehmen, welche sich mit Innovationen und IoT-Techn
 Neue Geschäftsfelder sollten erforscht werden
 
 [%notitle]
-[.columns.is-vcentered]
+[.columns.is-hcentered]
 === Ergebnis
 
 [.text-smaller]
