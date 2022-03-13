@@ -25,6 +25,12 @@
     font-family: yeFont;
 }
 
+.reveal h4 {
+    color: white;
+    font-family: yeFont;
+    font-size: smaller;
+}
+
 .reveal p {
     color: white;
     font-weight: 800;
