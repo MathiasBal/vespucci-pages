@@ -17,9 +17,9 @@ Neue Geschäftsfelder sollten erforscht werden
 
 [.column]
 --
-[.reveal h6]
 Schulprojekt
 
+[.text-smaller]
 Steuern einer Drohne mittels App
 --
 
@@ -27,6 +27,7 @@ Steuern einer Drohne mittels App
 --
 Diplomarbeit
 
+[.text-smaller]
 Erkennen von Ereignissen +
 (Azure Cognitive Services)
 --
