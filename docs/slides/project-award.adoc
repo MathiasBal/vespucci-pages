@@ -22,11 +22,12 @@ Neue Geschäftsfelder sollten erforscht werden
 Steuern einer Drohne mittels App
 
 [.column]
-[%notitle]
 ==== Diplomarbeit
+--
 [.font-smaller]
 Erkennen von Ereignissen +
 (Azure Cognitive Services)
+--
 
 [.reveal h2]
 [%notitle]
