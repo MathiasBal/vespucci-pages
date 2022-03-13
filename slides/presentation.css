@@ -9,8 +9,8 @@
 }
 
 .font-bigger {
+    font-family: yeFont, serif;
     font-size: larger;
-    font-family: yeFont;
 }
 
 .reveal section img {
@@ -22,13 +22,13 @@
     font-size: smaller;
 }
 .reveal h1 {
+    font-family: yeFont, serif;
     color: #20e851;
-    font-family: yeFont;
 }
 
 .reveal h2, .reveal h3, .reveal h4, .reveal h4, .reveal h5, .reveal h6, .reveal h6, #toctitle  {
+    font-family: yeFont, serif;
     color: white;
-    font-family: yeFont;
 }
 
 .reveal p {
