@@ -17,16 +17,14 @@ Neue Geschäftsfelder sollten erforscht werden
 
 [.column]
 --
-[.reveal h4]
+[.reveal h6]
 Schulprojekt
 
 Steuern einer Drohne mittels App
 --
 
 [.column]
-
 --
-[.reveal h4]
 Diplomarbeit
 
 Erkennen von Ereignissen +

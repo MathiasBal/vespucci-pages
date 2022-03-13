@@ -25,7 +25,7 @@
     font-family: yeFont;
 }
 
-.reveal h4 {
+.reveal h4, .reveal h6 {
     color: black;
     font-family: yeFont;
     font-size: smaller;
