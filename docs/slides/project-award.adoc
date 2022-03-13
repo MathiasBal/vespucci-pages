@@ -19,7 +19,7 @@ Neue Geschäftsfelder sollten erforscht werden
 --
 Schulprojekt
 
-[.text-smaller]
+[.font-smaller]
 Steuern einer Drohne mittels App
 --
 
@@ -27,7 +27,7 @@ Steuern einer Drohne mittels App
 --
 Diplomarbeit
 
-[.text-smaller]
+[.font-smaller]
 Erkennen von Ereignissen +
 (Azure Cognitive Services)
 --
