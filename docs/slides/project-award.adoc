@@ -16,9 +16,9 @@ Neue Geschäftsfelder sollten erforscht werden
 === Ergebnis
 
 [.column]
-[.font-smaller]
 --
-Schulprojekt +
+Schulprojekt
+
 * Steuern einer Drohne mittels App
 --
 
