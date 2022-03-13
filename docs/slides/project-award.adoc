@@ -15,16 +15,19 @@ Neue Geschäftsfelder sollten erforscht werden
 [.columns]
 === Ergebnis
 
-[.column.has-text-left]
+[.column]
 --
-Something Short
+[.font-bigger]
+Schulprojekt
 
-Something So Long That We Need It Aligned
+[.font-smaller]
+Steuern einer Drohne mittels einer App
 --
 
 
 [.column]
 --
+[.font-bigger]
 Diplomarbeit
 
 [.font-smaller]
