@@ -24,7 +24,6 @@ Schulprojekt
 Steuern einer Drohne mittels einer App
 --
 
-
 [.column]
 --
 [.font-bigger]
