@@ -12,18 +12,19 @@ Die Firma Kapsch ist ein Unternehmen, welche sich mit Innovationen und IoT-Techn
 === Ziel
 Neue Geschäftsfelder sollten erforscht werden
 
-[%notitle]
-[.columns.is-hcentered]
+[.columns]
 === Ergebnis
 
 [.text-smaller]
-[.column.is-full]
+[.column]
+[.text-smaller]
 ==== Schulprojekt
 
 Steuern einer Drohne mittels App
 
 [.text-smaller]
 [.column]
+[.text-smaller]
 ==== Diplomarbeit
 
 Erkennen von Ereignissen +
