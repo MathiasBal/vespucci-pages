@@ -25,7 +25,7 @@ Steuern einer Drohne mittels App
 ==== Diplomarbeit
 --
 [.font-smaller]
-Erkennen von Ereignissen +
+* Erkennen von Ereignissen +
 (Azure Cognitive Services)
 --
 
