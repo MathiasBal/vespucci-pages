@@ -38,6 +38,9 @@ https://mathiasbal.github.io/vespucci-pages/slides/tadeot.html#/[Tadeot Presenta
 * Project Award Slides: +
 https://mathiasbal.github.io/vespucci-pages/slides/project-award.html#/[Project Awards Presentation]
 
+=== Backup
+https://mathiasbal.github.io/vespucci-pages/video-project/backup.html#/[Video Backup]
+
 == Repositories
 * https://github.com/kapsch-software/leonding-autonomous-drone[Project Repository]
 * https://mathiasbal.github.io/vespucci-pages/[Vespucci Pages]
