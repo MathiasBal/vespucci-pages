@@ -1,4 +1,5 @@
 = Project Award notes
+ifndef::imagesdir[:imagesdir: ../images]
 
 == Begrüßung
 
@@ -11,7 +12,12 @@ zu erkunden (Mavic Mini zur Verfügung gestellt)
 
 * fanden wir sehr interessant -> gleich gemeldet -> SYP Projek
 
-== Ergebnis
+=== Ergebnis
+==== Schulprojekt
+Steuern einer Drohne mittels einer App
+
+==== Diplomarbeit
+Erkennen von Ereignissen mit Azure Cognitive Services also künstliche Intellig.
 
 == Mock Up
 
@@ -38,9 +44,13 @@ stats -> intervalle, buttons
 == Live Demo
 
 == Project Structure
+image::firediagram.png[height=200%, width=300%]
 
 == Code Demo
 
 == Wie gehts weiter
+* Drohnenrouten in Datenbank oder als File speichern
+* Größere Drohnen verwenden
+** Einsatzfähigkeiten prüfen
 
 == Verabschiedung
