@@ -40,13 +40,14 @@ Erkennen von Ereignissen +
 === Was haben wir gemacht
 image::mockup.png[background, size=contain]
 
+=== Live Demo Schulprojekt
+
 [%notitle]
 [background-image="forestfire.jpg", size=cover]
-=== Verwendung der Cognitive Services
+== Verwendung der Cognitive Services
 image::firediagram.png[height=200%, width=300%]
 
-
-== Live Demo
+== Live Demo Diplomarbeit
 
 == Wie gehts weiter?
 * Drohnenrouten in Datenbank oder als File speichern
