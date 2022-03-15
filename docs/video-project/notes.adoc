@@ -1,0 +1,46 @@
+= Project Award notes
+
+== Begrüßung
+
+==  Ausgangssituation
+arbeiten mit Firma Kapsch -> ist Unternehmen, das sich mit Innovationen % IoT-Technologien
+beschäftigt +
+sind Frühling 2021 an HTL Leonding gekommen und haben gefragt, obs Schüler gibt, die an
+Projekt arbeiten & App entwickeln wollen um neue Geschäftsbereiche mithilfe von Drohnen
+zu erkunden (Mavic Mini zur Verfügung gestellt)
+
+* fanden wir sehr interessant -> gleich gemeldet -> SYP Projek
+
+== Ergebnis
+
+== Mock Up
+
+=== Map
+* länge und breite von koordinaten damit genauer oder suchen von google
+* hebt ab 1.2m
+* Open Street Map library -> weil open source im gegensatz zu google maps & gute doku
+* leicht zu benutzen
+
+=== NavDrawer
+
+===	Camera
+
+===	Gimbal Slider & Shutter Button
+
+===	Stats
+* drop down mit use cases
+
+=== Routes
+
+== In App
+stats -> intervalle, buttons
+
+== Live Demo
+
+== Project Structure
+
+== Code Demo
+
+== Wie gehts weiter
+
+== Verabschiedung
