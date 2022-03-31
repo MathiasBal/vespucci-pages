@@ -3,22 +3,36 @@
 ifndef::imagesdir[:imagesdir: images]
 :favicon: ./images/favicon/favicon.png
 
-== Azure Documentation
-Documentation to explain what criteria we use for our Use-Cases +
-https://mathiasbal.github.io/vespucci-pages/azure-documentation/azure[Azure Documentation]
+The Vespucci Drone Project deals with the control of DJI drones and the processing
+of the images taken during a flight.
+
+== Branches
+Code is committed into the main branch which will be pushed to stable after several tests.
+
+image::git-branches.png[width=90%]
+
+== Flow
+* The drone is connected to the app via radio and images are uploaded to the cell phone in 30s intervals
+* The images are then sent via HTTP to a program that invokes Azure Cognitive Services
+* After image processing, TAGs are sent back to the phone via JSON and displayed in the app
+
+image::flowdiagram.png[width=90%]
 
 == Minutes of Meetings
 Every meeting ever :)
 
-* https://mathiasbal.github.io/vespucci-pages/mom/05-10-2021[Tuesday 05.10.2021]
-* https://mathiasbal.github.io/vespucci-pages/mom/Pre-11-10-2021[Monday 11.10.2021 Preperation]
-* https://mathiasbal.github.io/vespucci-pages/mom/11-10-2021[Monday 11.10.2021]
-* https://mathiasbal.github.io/vespucci-pages/mom/16-11-2021[Tuesday 16.11.2021]
-* https://mathiasbal.github.io/vespucci-pages/mom/20-01-2022[Thursday 20.01.2022]
-* https://mathiasbal.github.io/vespucci-pages/mom/21-02-2022[Monday 21.02.2022]
+* https://mathiasbal.github.io/vespucci-pages/mom/05-10-2021[Tuesday 05.10.2021 | Initial Presentation]
+* https://mathiasbal.github.io/vespucci-pages/mom/Pre-11-10-2021[Monday 11.10.2021 | Preperation for Meeting]
+* https://mathiasbal.github.io/vespucci-pages/mom/11-10-2021[Monday 11.10.2021 | Kapsch Briefing]
+* https://mathiasbal.github.io/vespucci-pages/mom/16-11-2021[Tuesday 16.11.2021 | Grading]
+* https://mathiasbal.github.io/vespucci-pages/mom/20-01-2022[Thursday 20.01.2022 | Future Plans]
+* https://mathiasbal.github.io/vespucci-pages/mom/21-02-2022[Monday 21.02.2022 | Current Status]
+
+== Azure Documentation
+Documentation to explain what criteria we use for our Use-Cases +
+https://mathiasbal.github.io/vespucci-pages/azure-documentation/azure[Azure Documentation]
 
 == SDK Documentation
-
 * https://mathiasbal.github.io/vespucci-pages/sdk-documentation/camera[Camera]
 * https://mathiasbal.github.io/vespucci-pages/sdk-documentation/flightcontroller[Flight Controller]
 * https://mathiasbal.github.io/vespucci-pages/sdk-documentation/missions[Missions]
@@ -38,10 +52,9 @@ https://mathiasbal.github.io/vespucci-pages/slides/tadeot.html#/[Tadeot Presenta
 * Project Award Slides: +
 https://mathiasbal.github.io/vespucci-pages/slides/project-award.html#/[Project Awards Presentation]
 
-=== Backup & Notes
-https://mathiasbal.github.io/vespucci-pages/video-project/backup.html#/[Video Backup]
-https://mathiasbal.github.io/vespucci-pages/video-project/notes.html#/[Notes]
+** https://youtu.be/-oZP3VJ7W_c?t=2544[Presentation]
 
 == Repositories
 * https://github.com/kapsch-software/leonding-autonomous-drone[Project Repository]
 * https://mathiasbal.github.io/vespucci-pages/[Vespucci Pages]
+* https://github.com/pilouihtl/azure-cognitive-use-cases/[Azure Repository]
