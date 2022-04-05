@@ -92,7 +92,14 @@ image::firediagram.png[height=200%, width=300%]
 "description": {
     "captions": [{
       "confidence": 0.3281869888305664,
-      "text": "a fire in the sky"
-    }]
+      "text": "a fire in the sky",
+    }],
+    "tags": [
+    "tree",
+    "nature",
+    "fire",
+    "smoke",
+    "outdoor"
+    ]
 }
 ----
