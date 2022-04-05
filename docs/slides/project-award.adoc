@@ -43,37 +43,37 @@ image::mockup.png[background, size=contain]
 [.reveal h2]
 [%notitle]
 [background-color="white"]
-=== Was haben wir gemacht
+=== Was haben wir gemacht1
 image::mockup (copy 1).png[background, size=contain]
 
 [.reveal h2]
 [%notitle]
 [background-color="white"]
-=== Was haben wir gemacht
+=== Was haben wir gemacht2
 image::mockup(1).png[background, size=contain]
 
 [.reveal h2]
 [%notitle]
 [background-color="white"]
-=== Was haben wir gemacht
+=== Was haben wir gemacht3
 image::mockup(2).png[background, size=contain]
 
 [.reveal h2]
 [%notitle]
 [background-color="white"]
-=== Was haben wir gemacht
+=== Was haben wir gemacht4
 image::mockup(3).png[background, size=contain]
 
 [.reveal h2]
 [%notitle]
 [background-color="white"]
-=== Was haben wir gemacht
+=== Was haben wir gemacht5
 image::mockup(4).png[background, size=contain]
 
 [.reveal h2]
 [%notitle]
 [background-color="white"]
-=== Was haben wir gemacht
+=== Was haben wir gemacht6
 image::mockup(5).png[background, size=contain]
 
 === Live Demo Schulprojekt
