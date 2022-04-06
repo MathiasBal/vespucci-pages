@@ -79,7 +79,7 @@ image::cammock.png[background, size=contain]
 === Opened Mockup
 image::openedmock.png[background, size=contain]
 
-=== Live Demo Schulprojekt
+=== Live Demo
 
 == Diplomarbeit
 
