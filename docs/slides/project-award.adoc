@@ -52,12 +52,6 @@ image::mapmock.png[background, size=contain]
 [.reveal h2]
 [%notitle]
 [background-color="white"]
-=== Map Mockup
-image::mapmock.png[background, size=contain]
-
-[.reveal h2]
-[%notitle]
-[background-color="white"]
 === Sidebar Mockup
 image::sidemock.png[background, size=contain]
 
