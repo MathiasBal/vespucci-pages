@@ -42,8 +42,7 @@ Erkennen von Ereignissen +
 === Was haben wir gemacht
 image::mockup.png[background, size=contain]
 
-[.reveal h2]
-[%notitle]
+
 === Mockup Map
 image::mockup(copy1).png[background, size=contain]
 
@@ -78,7 +77,7 @@ Erkennen von Menschenmengen und validieren, ob COVID-19 Maßnahmen eingehalten w
 --
 
 [%notitle]
-[background-image="masks.png", size=cover]
+[background-color="white", size=cover]
 === Ausgegebene TAGs
 [source,json,highlight=1..13]
 ----
