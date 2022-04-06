@@ -3,6 +3,8 @@
 Bal Karan Mathias, Herzog Nathalie
 ifndef::imagesdir[:imagesdir: ../images]
 :customcss: presentation.css
+:source-highlighter: highlightjs
+:highlightjs-languages: json
 :revealjs_parallaxBackgroundImage: ../images/wallpaper_pa.png
 :revealjs_parallaxBackgroundSize: cover
 
@@ -79,7 +81,7 @@ Erkennen von Menschenmengen und validieren, ob COVID-19 Maßnahmen eingehalten w
 [%notitle]
 [background-image="masks.png", size=cover]
 === Ausgegebene TAGs
-[source,json]
+[source,json,color]
 ----
 "description": {
     "captions": [{
