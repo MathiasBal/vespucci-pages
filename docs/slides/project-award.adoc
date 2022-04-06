@@ -81,7 +81,7 @@ Erkennen von Menschenmengen und validieren, ob COVID-19 Maßnahmen eingehalten w
 [%notitle]
 [background-image="masks.png", size=cover]
 === Ausgegebene TAGs
-[source,json,color]
+[source,json]
 ----
 "description": {
     "captions": [{
