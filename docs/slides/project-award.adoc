@@ -49,6 +49,42 @@ image::mockup.png[background, size=contain]
 === Map Mockup
 image::mapmock.png[background, size=contain]
 
+[.reveal h2]
+[%notitle]
+[background-color="white"]
+=== Map Mockup
+image::mapmock.png[background, size=contain]
+
+[.reveal h2]
+[%notitle]
+[background-color="white"]
+=== Sidebar Mockup
+image::sidemock.png[background, size=contain]
+
+[.reveal h2]
+[%notitle]
+[background-color="white"]
+=== Stats Mockup
+image::statsmock.png[background, size=contain]
+
+[.reveal h2]
+[%notitle]
+[background-color="white"]
+=== Routes Mockup
+image::routesmock.png[background, size=contain]
+
+[.reveal h2]
+[%notitle]
+[background-color="white"]
+=== Camera Mockup
+image::cammock.png[background, size=contain]
+
+[.reveal h2]
+[%notitle]
+[background-color="white"]
+=== Opened Mockup
+image::openedmock.png[background, size=contain]
+
 === Live Demo Schulprojekt
 
 == Diplomarbeit
@@ -82,19 +118,4 @@ Erkennen von Menschenmengen und validieren, ob COVID-19 Maßnahmen eingehalten w
 [%notitle]
 [background-image="masks.png", size=cover]
 === Ausgegebene TAGs
-[source,js]
-----
-"description": {
-    "captions": [{
-      "confidence": 0.3281869888305664,
-      "text": "a group of humans",
-    }],
-    "tags": [
-    "nature",
-    "human",
-    "group"
-    "mask",
-    "outdoor"
-    ]
-}
-----
+image::output.png[]
