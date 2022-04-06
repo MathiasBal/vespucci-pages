@@ -44,7 +44,7 @@ image::mockup.png[background, size=contain]
 
 
 === Mockup Map
-image::mockup(copy1).png[background, size=contain]
+image::mockup(copy1).png[size=contain]
 
 === Live Demo Schulprojekt
 
