@@ -396,11 +396,23 @@ document.getElementsByTagName( 'head' )[0].appendChild( link );</script><link re
 <div class="paragraph font-smaller"><p>Steuern einer Drohne mittels einer App</p></div></div></div>
 <div class="openblock column"><div class="content"><div class="paragraph font-bigger"><p>Diplomarbeit</p></div>
 <div class="paragraph font-smaller"><p>Erkennen von Ereignissen<br>
-(Azure Cognitive Services)</p></div></div></div></div></section><section id="_was_haben_wir_gemacht" data-background-color="white" data-background-image="../images/mockup.png" data-background-size="contain"></section><section id="_mockup_map"><h2>Mockup Map</h2><div class="slide-content"><div class="imageblock"><img src="../images/mockup(copy1).png" alt="mockup(copy1)"></div></div></section><section id="_live_demo_schulprojekt"><h2>Live Demo Schulprojekt</h2></section></section>
+(Azure Cognitive Services)</p></div></div></div></div></section><section id="_was_haben_wir_gemacht" data-background-color="white" data-background-image="../images/mockup.png" data-background-size="contain"></section><section id="_map_mockup" data-background-color="white" data-background-image="../images/mapmock.png" data-background-size="contain"></section><section id="_live_demo_schulprojekt"><h2>Live Demo Schulprojekt</h2></section></section>
 <section><section id="_diplomarbeit"><h2>Diplomarbeit</h2></section><section id="_verwendung_der_cognitive_services" data-background-image="../images/forestfire.jpg"><div class="slide-content"><div class="imageblock"><img src="../images/firediagram.png" alt="firediagram" width="300%" height="200%"></div></div></section><section id="_use_cases" class="columns"><h2>Use-Cases</h2><div class="slide-content"><div class="openblock column"><div class="content"><div class="paragraph font-bigger"><p>Forest Fire</p></div>
 <div class="paragraph font-smaller"><p>Erkennen von Waldbränden</p></div></div></div>
 <div class="openblock column"><div class="content"><div class="paragraph font-bigger"><p>Corona Restrictions</p></div>
-<div class="paragraph font-smaller"><p>Erkennen von Menschenmengen und validieren, ob COVID-19 Maßnahmen eingehalten werden</p></div></div></div></div></section><section id="_ausgegebene_tags" data-background-image="../images/masks.png"><div class="slide-content"><div class="imageblock"><img src="../images/output.png" alt="output"></div></div></section></section></div></div><script src="revealjs/js/reveal.js"></script><script>Array.prototype.slice.call(document.querySelectorAll('.slides section')).forEach(function(slide) {
+<div class="paragraph font-smaller"><p>Erkennen von Menschenmengen und validieren, ob COVID-19 Maßnahmen eingehalten werden</p></div></div></div></div></section><section id="_ausgegebene_tags" data-background-image="../images/masks.png"><div class="slide-content"><div class="listingblock"><div class="content"><pre class="rouge highlight"><code data-lang="js"><span class="dl">"</span><span class="s2">description</span><span class="dl">"</span><span class="p">:</span> <span class="p">{</span>
+    <span class="dl">"</span><span class="s2">captions</span><span class="dl">"</span><span class="p">:</span> <span class="p">[{</span>
+      <span class="dl">"</span><span class="s2">confidence</span><span class="dl">"</span><span class="p">:</span> <span class="mf">0.3281869888305664</span><span class="p">,</span>
+      <span class="dl">"</span><span class="s2">text</span><span class="dl">"</span><span class="p">:</span> <span class="dl">"</span><span class="s2">a group of humans</span><span class="dl">"</span><span class="p">,</span>
+    <span class="p">}],</span>
+    <span class="dl">"</span><span class="s2">tags</span><span class="dl">"</span><span class="p">:</span> <span class="p">[</span>
+    <span class="dl">"</span><span class="s2">nature</span><span class="dl">"</span><span class="p">,</span>
+    <span class="dl">"</span><span class="s2">human</span><span class="dl">"</span><span class="p">,</span>
+    <span class="dl">"</span><span class="s2">group</span><span class="dl">"</span>
+    <span class="dl">"</span><span class="s2">mask</span><span class="dl">"</span><span class="p">,</span>
+    <span class="dl">"</span><span class="s2">outdoor</span><span class="dl">"</span>
+    <span class="p">]</span>
+<span class="p">}</span></code></pre></div></div></div></section></section></div></div><script src="revealjs/js/reveal.js"></script><script>Array.prototype.slice.call(document.querySelectorAll('.slides section')).forEach(function(slide) {
   if (slide.getAttribute('data-background-color')) return;
   // user needs to explicitly say he wants CSS color to override otherwise we might break custom css or theme (#226)
   if (!(slide.classList.contains('canvas') || slide.classList.contains('background'))) return;
