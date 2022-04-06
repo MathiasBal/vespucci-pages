@@ -111,5 +111,5 @@ Erkennen von Menschenmengen und validieren, ob COVID-19 Maßnahmen eingehalten w
 
 [%notitle]
 [background-image="masks.png", size=cover]
-=== Ausgegebene TAGs
+=== Ausgabe Corona Restrictions
 image::output.png[]
