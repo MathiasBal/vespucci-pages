@@ -40,6 +40,12 @@ Erkennen von Ereignissen +
 === Was haben wir gemacht
 image::mockup.png[background, size=contain]
 
+[.reveal h2]
+[%notitle]
+[background-color="white"]
+=== Mockup Map
+image::mockup(copy1).png[background, size=contain]
+
 === Live Demo Schulprojekt
 
 == Diplomarbeit
@@ -49,21 +55,42 @@ image::mockup.png[background, size=contain]
 === Verwendung der Cognitive Services
 image::firediagram.png[height=200%, width=300%]
 
+[.columns]
+=== Use-Cases
+
+[.column]
+--
+[.font-bigger]
+Forest Fire
+
+[.font-smaller]
+Erkennen von Waldbränden
+--
+
+[.column]
+--
+[.font-bigger]
+Corona Restrictions
+
+[.font-smaller]
+Erkennen von Menschenmengen und validieren, ob COVID-19 Maßnahmen eingehalten werden
+--
+
 [%notitle]
-[background-color="white"]
+[background-image="masks.png", size=cover]
 === Ausgegebene TAGs
 [source,json]
 ----
 "description": {
     "captions": [{
       "confidence": 0.3281869888305664,
-      "text": "a fire in the sky",
+      "text": "a group of humans",
     }],
     "tags": [
-    "tree",
     "nature",
-    "fire",
-    "smoke",
+    "human",
+    "group"
+    "mask",
     "outdoor"
     ]
 }
