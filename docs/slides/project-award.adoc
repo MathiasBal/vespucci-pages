@@ -81,7 +81,7 @@ image::openedmock.png[background, size=contain]
 
 === Live Demo
 
-== Diplomarbeit
+== Struktur
 
 [%notitle]
 [background-image="forestfire.jpg", size=cover]
