@@ -113,3 +113,8 @@ Erkennen von Menschenmengen und validieren, ob COVID-19 Maßnahmen eingehalten w
 [background-image="masks.png", size=cover]
 === Ausgabe Corona Restrictions
 image::output.png[]
+
+[%notitle]
+[background-color="white"]
+=== Ausgabe in App
+image::mocklock.jpeg[background,size=contain]
