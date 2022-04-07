@@ -5,7 +5,7 @@ ifndef::imagesdir[:imagesdir: ../images]
 :customcss: presentation.css
 :source-highlighter: highlightjs
 :highlightjs-languages: json
-:revealjs_parallaxBackgroundImage: ../images/wallpaper_pa_b.png
+:revealjs_parallaxBackgroundImage: ../images/wallpaper_pa_c.png
 :revealjs_parallaxBackgroundSize: cover
 
 == Ausgangssituation
