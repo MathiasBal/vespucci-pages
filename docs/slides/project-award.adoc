@@ -5,11 +5,11 @@ ifndef::imagesdir[:imagesdir: ../images]
 :customcss: presentation.css
 :source-highlighter: highlightjs
 :highlightjs-languages: json
-:revealjs_parallaxBackgroundImage: ../images/wallpaper_pa_c.png
+:revealjs_parallaxBackgroundImage: ../images/wallpaper_pa.png
 :revealjs_parallaxBackgroundSize: cover
 
 == Ausgangssituation
-Die Firma Kapsch ist ein Unternehmen, welche sich mit Innovationen und IoT-Technologien auseinandersetzt
+Die Firma k-BusinessCom ist ein Unternehmen, welche sich mit Innovationen und IoT-Technologien auseinandersetzt
 
 === Ziel
 Neue Geschäftsfelder sollten erforscht werden
