@@ -49,5 +49,12 @@ Garden hose
 image::storyboard.png[]
 
 == Video
-video::../videos/final_v2_german_recuded.mp4[width=545,height=360]
+.German (without company name)
+video::../videos/showcase_german.mp4[width=545,height=360]
+.German (with company name)
+video::../videos/showcase_german_withText.mp4[width=545,height=360]
+.English (without company name)
+video::../videos/showcase_english.mp4[width=545,height=360]
+.English (with company name)
+video::../videos/showcase_english_withText.mp4[width=545,height=360]
 
